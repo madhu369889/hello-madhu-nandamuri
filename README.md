@@ -1,1 +1,3 @@
-# hello-madhu-nandamuri
+# maven-project
+
+Simple Maven Project
